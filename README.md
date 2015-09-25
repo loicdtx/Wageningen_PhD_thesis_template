@@ -9,7 +9,7 @@ In case you're not sure how you got here in the first place, you're not at all i
 
 ## Acknowledgements
 
-[Arend Ligtenberg](https://www.wageningenur.nl/en/Persons/Arend-Ligtenberg.htm) from the Laboratory of Geo-Information Science and Remote Sensing (Wageningen University) is da real MVP for that template. He designed the whole thing in 2006 for his own [thesis](http://edepot.wur.nl/40696). Minor adjustments were made by Kim Calders (2014), Ben deVries (2015) and myself. Big thanks to them.
+[Arend Ligtenberg](https://www.wageningenur.nl/en/Persons/Arend-Ligtenberg.htm) from the Laboratory of Geo-Information Science and Remote Sensing (Wageningen University) is the main person behind this template. He designed the whole thing in 2006 for his own [thesis](http://edepot.wur.nl/40696). Minor adjustments were made by Kim Calders (2014), Ben deVries (2015) and myself. Big thanks to them.
 
 ## Additional tips
 
@@ -17,4 +17,5 @@ In case you're not sure how you got here in the first place, you're not at all i
 - [paperProject](https://github.com/dutri001/paperProject): A framework for structuring each individual chapter, integrating analysis with writing.
 
 Good luck finalizing your thesis,
-Loïc
+
+Loïc	
