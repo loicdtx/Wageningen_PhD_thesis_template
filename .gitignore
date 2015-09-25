@@ -2,5 +2,6 @@
 !figs*/
 !*.tex
 !*.bib
+!*.md
 !*/.gitignore
 
