@@ -1,4 +1,6 @@
 *
+!figs*/
 !*.tex
 !*.bib
-!*.gitignore
+!*/.gitignore
+
