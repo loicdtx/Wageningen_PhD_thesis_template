@@ -1,7 +1,11 @@
+# LaTeX produces a lot of extra files on compile, however these does not have to be tracked for versioning.
+# So, first ignore all files
 *
+
+# Except for the ones really needed for LaTeX compile.
 !figs*/
 !*.tex
 !*.bib
 !*.md
-!*/.gitignore
-
+!.gitignore
+!PERC_logo.pdf
