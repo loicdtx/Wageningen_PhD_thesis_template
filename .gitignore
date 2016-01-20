@@ -7,5 +7,6 @@
 !*.tex
 !*.bib
 !*.md
+!/*.gitignore
 !.gitignore
 !PERC_logo.pdf
