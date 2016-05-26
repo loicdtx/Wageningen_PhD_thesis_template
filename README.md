@@ -13,7 +13,10 @@ In case you're not sure how you got here in the first place, you're not at all i
 
 ## Additional tips
 
-- [bibtool](http://www.ctan.org/tex-archive/biblio/bibtex/utils/bibtool): Tool for merging bib files (I haven't used it so far)
+- [bibtool](http://www.ctan.org/tex-archive/biblio/bibtex/utils/bibtool): Tool for merging bib files. If your bib entry always came from the same source (I get them all from google scholar), the following line will produce exactly what you need.
+
+`bibtool -s -d chapter1/latex/refs.bib chapter2/latex/refs.bib chapter3/latex/refs.bib chapter4/latex/refs.bib chapter5/latex/refs.bib > phd/refs.bib`
+
 - [paperProject](https://github.com/dutri001/paperProject): A framework for structuring each individual chapter, integrating analysis with writing.
 
 Good luck finalizing your thesis,
